@@ -6,7 +6,7 @@ A minimal word censoring library with no third-party dependencies, available in 
 
 ## License
 
-This project is licensed under the [GNU General Public License v3.0](LICENSE).
+This project is licensed under the [GNU Lesser General Public License v2.1](LICENSE).
 
 ---
 
